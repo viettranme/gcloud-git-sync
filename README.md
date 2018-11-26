@@ -9,5 +9,6 @@ git add app-debug.apk
 git config --global user.email "vtq@vietmaisolutions.com"
 git config --global user.name "Viet Tran"
 git commit -m "X"
+git pull origin master
 git push origin master
 ```
